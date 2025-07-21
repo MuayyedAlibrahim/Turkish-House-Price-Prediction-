@@ -137,10 +137,10 @@ Gerekli kütüphaneler:
 
 Bu proje açık kaynaklıdır ve eğitim amaçlı kullanılabilir.
 
-## 📞 İletişim
+##  İletişim
 
 Proje hakkında sorularınız veya önerileriniz için lütfen iletişime geçin.
-meil : Muayyedalibrahim.com
+meil : Muayyedalibrahim@gmail.com
 
 ---
 
