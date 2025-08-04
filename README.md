@@ -1,4 +1,4 @@
-# Türk Ev Fiyat Tahmini Projesi
+# Ev Fiyat Tahmini Projesi
 
 Bu proje, Türkiye'deki ev fiyatlarını tahmin etmek için makine öğrenmesi modelini kullanan interaktif bir Streamlit uygulamasıdır. Kullanıcılar, il, ilçe, mahalle, metrekare ve oda sayısı gibi özellikleri belirleyerek potansiyel ev fiyatlarını tahmin edebilir ve kapsamlı veri analizlerini inceleyebilirler.
 
